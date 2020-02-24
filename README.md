@@ -3,6 +3,7 @@
 #### cliquer sur une colonne pour y jouer un coup, cliquer à nouveau pour faire jouer l'ia ####
 
 l'ia est écrite dans le fichier minimax.pyx, nous avons utilisé un minimax à elagage alpha beta
+(une variable DIFFICULTY au début du ficher, permet de régler la profondeur du minimax)
 
 le menu et la gestion des différentes fenêtres (arcade.View) sont écrits dans Menu.py
 
