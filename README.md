@@ -12,4 +12,4 @@ le menu et la gestion des différentes fenêtres (arcade.View) sont écrits dans
 l'affichage du jeu (grille, pions, images) est géré dans MyGame.py, 
 pour jouer un coup il suffit d'appeler la fonction play(colonne) de l'un des objets Player (humain ou ia)
 
-la vidéo: https://youtu.be/iMPfmCuNRZw
+*** la vidéo: https://youtu.be/iMPfmCuNRZw
