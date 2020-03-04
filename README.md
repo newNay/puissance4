@@ -1,6 +1,6 @@
 # puissance4
 
-***pour jouer jeu, lancer Menu.py***
+***pour jouer au jeu, lancer Menu.py***
 
 #### cliquer sur une colonne pour y jouer un coup, cliquer à nouveau pour faire jouer l'ia ####
 
